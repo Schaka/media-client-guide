@@ -108,3 +108,8 @@ But this basic setup should really be good enough. Don't spend too much time tin
 Jellyfin should have synced your entire library by now. Watch some of your favorite movies as they were intended be seen. Enjoy you've only ever experienced transcoded and down-mixed.
 
 You've probably spent hours following this guide already - take a break and enjoy the fruits of your labor.
+
+## Dolby Vision support
+Keep an eye out on [this thread](https://discourse.coreelec.org/t/learning-about-dolby-vision-and-coreelec-development/50998/249). This CoreELEC user is working on making Dolby Vision work via TV LED on [non-licensed devices](https://discourse.coreelec.org/t/learning-about-dolby-vision-and-coreelec-development/50998/262).
+
+If this ever goes anywhere and may even make it to upstream releases, it could make this player extremely valuable.

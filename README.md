@@ -1,4 +1,4 @@
-# Media Client - A guide to streaming local via Jellyfin on a budget
+# Media Client - A guide to streaming local media via Jellyfin on a budget
 
 ## Introduction
 

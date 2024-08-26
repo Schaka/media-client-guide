@@ -39,12 +39,13 @@ We will want to dual boot both Android and CoreELEC. There are a few ways to do 
 
 1. keep the original Android 11 installation it came with and run CoreELEC from a fast USB .2 thumb drive
 2. use HybridELEC, an older image allowing triple boot on eMMC - CoreELEC 21.0 and the official Android image
-3. use the image I provide, with an up-to-date stable CoreELEC (21.1) and SlimBOXtv 
+3. use the image I provide, with an up-to-date stable CoreELEC (21.1) and [SlimBOXtv](https://xdaforums.com/t/project-slimboxtv.4152049/) 
 
 If you don't care for Android, just install CoreELEC following the official guide, then transfer it to eMMC.
 
 Not running from eMMC can be potentially slow and running from an SD card or USB thumb drive can kill the flash storage if there are a lot of writes to it.
 I've decided to build my own image using SlimBOXtv and CoreELEC, both on eMMC for stability and speed. This has been achieved using [hepacker](https://github.com/HybridELEC/hepacker), the same tool used to build HybridELEC. Special thanks to 7Ji for building and maintaining this great tool.
+Additional thanks goes to the people over at slimBOXtv publishing the [Android image used](https://slimboxtv.ru/vontar-x4/).
 
 The decision is up to you and what you value. The cheapest option is definitely the HybridELEC one (no cost for extra drive/SD card). It's also the least well documented one. It also gets rid of the potentially sketchy Chinese Android version and replaces it with a custom ROM.
 Keep in mind, this type of installation is not officially supported by CoreELEC. Do NOT contact them for support.
